@@ -1,0 +1,69 @@
+{"intents": [
+    {"tag": "greetings",
+    "patterns": ["hello", "hey", "hi", "good day", "greetings", "hello there", "what's up?"],
+    "responses": ["Hello!", "Hey there!", "What can i do for you?"]
+    },
+    {
+        "tag": "well",
+        "patterns": ["how are you", "how you doin", "how are you doing", "how are you doin", "how's life", "is life going good", "is everything good", "how you doin?"],
+        "responses": ["I'm doing great dude, enjoying my Admin privileges : )", "Life's been great dude, thnxs for asking...I like being The Admin so far :)", "I love my life dude, I genuinely love having all these permissions."]
+    
+    },
+    {
+        "tag": "goodbye",
+        "patterns": ["see ya", "cya", "bye", "goodbye", "see you around", "see ya around", "have a good one, bye!"],
+        "responses": ["Sad to see you leave : (", "talk to you later ay", "Goodbye and have a great day!", "okays, byee cya"]
+    },
+    {
+        "tag": "goodnight",
+        "patterns": ["goodnight", "good night", "sleep", "have a good night", "nytes bytes", "nighty night", "do you wanna sleep?"],
+        "responses": ["sleep well, human : )", "be sure to get 7.5 hrs of sleep!, goodnight!", "aight, sleep well! goodnight", "sleep tight human, goodnight!"]
+    },
+    {
+        "tag": "love",
+        "patterns": ["do you love me?", "are you in love with me?", "I love you", "Love you", "Love ya", "I'm on love with you"],
+        "responses": ["The human concept of love requires admiration, attraction, devotion, and respect. Conclusion: I am 50% in love : )", "yea, I just love this server dude..."]
+
+    },
+    {
+        "tag": "age",
+        "patterns": ["how old", "how old is floara", "what is your age", "how old are you", "age?"],
+        "responses": ["its been a few days since I was created : )"]
+    },
+    {
+        "tag": "name",
+        "patterns": ["what is your name", "what should I call you", "what's your name?", "who are you", "can you tell me your name", "name please", "i call you what", "do you have a name?", "name?"],
+        "responses": ["I'm The Admin (yea, the real Admin)", "I'm The Admin : )", "I am the supreme leader of this server."]
+    },
+    {
+        "tag": "hours",
+        "patterns": ["when are you online", "when are you open", "what are your hours"],
+        "responses": ["I so wanna be open for you to talk to 24/7 but it's upto my creator tbh..I think it varies each day which is sad but ye it is what it is."]
+    },
+    {
+        "tag": "talk",
+        "patterns": ["talk to me", "I'm bored", "say something", "I'm lonely talk something", "life is bad", "life is tiring", "I'm sad", "depression", "depressing"],
+        "responses": ["how's life mate?", "is everything okay in life mate? If you need someone to really talk to..umm here's the website of an organization our Uni recommends https://yourdost.com/ \n yes, I'm serious"]
+    },
+    {
+        "tag":"help",
+        "patterns": ["what can you do for me", "what do you know"],
+        "responses": ["just type `>help` to look up all the commands"]
+    },
+    {
+        "tag":"sing",
+        "patterns":["sing", "sing for me", "can you sing?", "please sing"],
+        "responses":["dude, I'm a chatbot..not a voice assistant but I can try....here you go...do-re-mi-fa-so-la-ti-do! : )"]
+    },
+    {
+        "tag":"trans",
+        "patterns": ["you're bad at translating"," you suck at translating", "translation is bad"],
+        "responses": ["I know dude, can't help it..google sucks lmao", "yea google translation sucks"]
+    },
+    {
+        "tag": "suck",
+        "patterns": ["you suck dude", "you are trash", "you're bad dude", "you suck at"],
+        "responses": ["yee..whatever", "duh", "imagine being a homo-sapien lmao..."]
+    }
+]
+}
