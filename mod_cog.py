@@ -203,7 +203,7 @@ class mod_cog(commands.Cog):
                             embed.add_field(name = f"{sno}) {username}", value = f"{messagecounts[userid]} messages", inline = False)
                             sno+=1
                             print(messagecounts)
-                #await ctx.send(f'%s : {messagecounts[userid]} ' % user)
+                #await ctx.send(f'%s: {messagecounts[userid]} ' % user)
             except NotFound:
                 pass
         except KeyError:
