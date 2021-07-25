@@ -17,7 +17,7 @@ Music, translation, memes, quotes, serverstats + an AI chatbot built in.
 -> Plays music in discord voice channels.
 
 
--> An activestats and a serverstats command that show no. of messages from each person in a server and the total number of messages logged in a server, respectively.
+-> An activestats and a serverstats command that show no. of messages from each person in a server and the total    number of messages logged in a server, respectively.
 
 
 -> Userinfo command that returns public info of the mentioned user.
