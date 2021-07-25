@@ -22,3 +22,4 @@ Music, translation, memes, quotes, serverstats + an AI chatbot built in.
 
 -> Userinfo command that returns public info of the mentioned user.
 
+# Run the training.py file once to acquire all the files needed for the bot to run (especially for the chatbot feature).
