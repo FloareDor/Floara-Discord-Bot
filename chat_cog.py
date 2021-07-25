@@ -88,5 +88,5 @@ class chat_cog(commands.Cog):
 #   temp = input()
 #   message = str(temp)
 #   ints = predict_class(message)
-#   res = get_response(ints, intents)
-#   print(res)
+#   result = get_response(ints, intents)
+#   print(result)
