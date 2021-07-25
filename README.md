@@ -5,7 +5,7 @@ Music, translation, memes, quotes, serverstats + an AI chatbot built in.
 -> Made using discord.py, PRAW, keras and googletrans.
 
 
--> It can send memes, quotes and scrape other similar data from the reddit.
+-> It can send memes, quotes and scrape other similar data from reddit.
 
 
 -> Has all the classic mod commands built in.
