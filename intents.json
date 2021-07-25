@@ -59,6 +59,7 @@
         "tag":"trans",
         "patterns": ["you're bad at translating"," you suck at translating", "translation is bad"],
         "responses": ["I know dude, can't help it..google sucks lmao", "yea google translation sucks"]
+        
     },
     {
         "tag": "suck",
