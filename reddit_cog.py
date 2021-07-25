@@ -10,8 +10,6 @@ reddit = praw.Reddit(
     client_secret= 'DrZG-CKbOkkGAzhSp59B5X3zAYu0tQ',
     user_agent='<console:FLOARE:1.0>',
     check_for_async=False
-    #username = 'floaredorbot',
-    #password = 'ramrajkisalute',
 )
 class reddit_cog(commands.Cog):
     def steal(self,subReddit):
