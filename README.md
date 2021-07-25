@@ -1,4 +1,4 @@
-# Floara-Discord-Bot
+# Floara-The Polyvalent-Discord-Bot
 Music, translation, memes, quotes, serverstats + an AI chatbot built in.
 
 
