@@ -34,7 +34,7 @@ async def change_status():
 # Logging the messages
 @client.event
 async def on_message(message):
-        #if message.guild.id not in messagecounts.keys(): # Make sure there's already an entry... If not, add one!
+        #if message.guild.id not in messagecounts.keys(): # Make sure there's already an entry.. If not, add one!
             #messagecounts[message.guild.id] = 0
         #messagecounts[message.guild.id] += 1
     with open('messagecountsdata.p', 'rb') as fp:
