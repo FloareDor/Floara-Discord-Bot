@@ -100,7 +100,6 @@ class reddit_cog(commands.Cog):
     @commands.command()
     async def quoteme(self,ctx):
         ball_subs = []
-        #await ctx.send("Here's your meme, take it and leave.")
         subreddit = reddit.subreddit("quotes")
         for submission in subreddit.hot(limit=search_limit):
             ball_subs.append(submission)
