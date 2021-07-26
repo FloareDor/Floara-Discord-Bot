@@ -1,5 +1,5 @@
 # Floara-The Polyvalent-Discord-Bot
-Music, translation, memes, quotes, serverstats + an AI chatbot built in.
+Music,MOD commands, translation, memes, quotes, serverstats + an AI chatbot built in.
 
 
 -> Made using discord.py, PRAW, keras and googletrans.
