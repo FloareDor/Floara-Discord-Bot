@@ -2,7 +2,7 @@
 Music,MOD commands, translation, memes, quotes, serverstats + an AI chatbot built in.
 
 
--> Made using discord.py, PRAW, keras and googletrans.
+- Made using discord.py, PRAW, keras and googletrans.
 
 -> An AI chatbot that can trained as needed to learn patterns of input from the users.
 
